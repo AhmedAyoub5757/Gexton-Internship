@@ -1,0 +1,46 @@
+.carti{
+    margin-left: 950px;
+    margin-top: 5px;
+}
+.logi{
+margin-left: 850px;
+margin-top: 0%;
+}
+#logbtn a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-weight: bolder;
+}
+.count a{
+    text-decoration: none;
+    list-style: none;
+    /* font-weight: bold; */
+    color: white;
+}
+.lf{
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+/* .addtocartbtn{ */
+    /* float: right; */
+    /* margin-left: 900px; */
+    /* display: flex;
+    flex: content;
+}
+.ri{
+    margin-left: 999px;
+} */
+
+.product{
+    display: none;
+}
+.show{
+    display: block;
+}
+.form{
+display: flex;
+justify-content: center;
+align-items: center;
+}
