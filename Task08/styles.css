@@ -1,0 +1,22 @@
+.sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sortable li {
+    cursor: grab;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #f4f4f4;
+  }
+  .sortable li:hover{
+    cursor: grab;
+    background-color: antiquewhite;
+  }
+  
+  .sortable li:active {
+    cursor: grabbing;
+    background-color: #ccc;
+  }
+  
